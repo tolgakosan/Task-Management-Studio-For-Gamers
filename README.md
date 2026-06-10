@@ -1,11 +1,11 @@
 # Task-Management-Studio-For-Gamers
 
-Bu proje, bir yazılım geliştirme ekibinin kendi içindeki iş akışını, görev dağılımlarını ve proje ilerlemelerini dinamik olarak yönetebilmesi, ekip üyelerinin birbirleriyle iş birliği içinde çalışabilmesi amacıyla geliştirilmiş web tabanlı bir yönetim sistemidir.
+Bu proje, bir oyuncu grubunun kendi içindeki iş akışını, görev dağılımlarını ve iş ilerlemelerini dinamik olarak yönetebilmesi, ekip üyelerinin birbirleriyle iş birliği içinde çalışabilmesi amacıyla geliştirilmiş web tabanlı bir yönetim sistemidir.
 
 ## 🚀 Proje Tanıtım Videosu
 Ekampüs proje gönderim kriterlerine uygun olarak hazırlanan, uygulamanın tüm fonksiyonlarını ve işleyişini anlatan tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-▶️ [Yazılım Ekip Paneli - Proje Tanıtım Videosu (1-3 Dk)]()
+▶️ [Proje Tanıtım Videosu](https://youtu.be/Y3pl5CxdU-I)
 
 ## 📸 Uygulama Ekran Görüntüleri
 
